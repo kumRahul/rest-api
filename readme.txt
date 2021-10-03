@@ -1,1 +1,1 @@
-A sample project for rest api
+A sample project for rest api.
